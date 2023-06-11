@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EcoGlobal</string>
+    <string name="title_activity_pasarela">activity_pasarela</string>
 </resources>
